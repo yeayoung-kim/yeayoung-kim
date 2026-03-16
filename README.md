@@ -1,4 +1,4 @@
-## 🏃‍♀️ Experience 
+## Experience 
 
 🏫 충남대학교 코쿤 창업동아리 <br>
 *2026.03 ~ ing*
@@ -13,16 +13,16 @@
 🍊 오렌지 파크 러닝메이트 7기 <br>
 *2026.03 ~ 2026.05* <br> 
 
-## 🏆 Awards & Achievements <br> 
+## Awards & Achievements <br> 
 
-## 💡 Volunteer work  <br> 
+## Volunteer work  <br> 
 🧸 굿네이버스 어린이 성폭력 예방 인형시연 봉사  <br> 
  *2023.03 ~ 2023.07* <br> 
 
 👩‍🏫 서구꿈드림 고등학교 졸업시험 사회 검정고시 교육봉사  <br> 
    *2026.03 ~ ing* <br> 
 
-## 🎯 Project  <br>  
+## Project  <br>  
 
 🧑‍🎄 사용자 약 400명 / 산타의 편지 <전국단위, 익명편지 주고받기>  <br> 
  *2024.11 ~ 2025.01* <br> 
