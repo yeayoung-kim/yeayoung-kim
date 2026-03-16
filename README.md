@@ -1,4 +1,9 @@
-## Hi there 👋
+## Experience 
+---
+
+🏫 충남대학교 물리학과
+🦁 멋쟁이 사자처럼 프론트엔드 아기사자 14기 
+
 
 <!--
 **yeayoung-kim/yeayoung-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
