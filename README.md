@@ -31,9 +31,10 @@
   *2026.03 ~ 2026.03* <br> 
 
 ## Current Activities <br> 
-
-	•	Currently developing a Korean language textbook
-	•	Currently building a Korean vocabulary app
+🇰🇷 Currently developing a Korean language textbook <br> 
+*2026.03 ~ ing* <br> 
+🇰🇷 Currently building a Korean vocabulary app <br> 
+*2026.03 ~ ing* <br> 
 
 
 <!--
