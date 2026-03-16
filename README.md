@@ -30,6 +30,11 @@
 💌 사용자 약 70명 / 충남대학교 <교내프로젝트, 너와 나의 연결고리 익명 봄편지> <br> 
   *2026.03 ~ 2026.03* <br> 
 
+## Current Activities <br> 
+
+	•	Currently developing a Korean language textbook
+	•	Currently building a Korean vocabulary app
+
 
 <!--
 **yeayoung-kim/yeayoung-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
