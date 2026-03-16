@@ -6,9 +6,12 @@
 🦁 멋쟁이 사자처럼 프론트엔드 아기사자 14기 <br>
   *2026.03 ~ ing* <br>
   
-🇰🇷 개인사이트에서 외국인 대상 한국어 과외 진행
+🇰🇷 개인사이트에서 외국인 대상 한국어 과외 진행 <br> 
   *2025.03 ~ ing* <br> 
-  *바로가기 -> https://yeayoung-korean.vercel.app/* <br> 
+  *바로가기 -> https://yeayoung-korean.vercel.app/* <br>
+
+🍊 오렌지 파크 러닝메이트 7기 <br> 
+   *2026.03 ~ 2026.05* <br> 
   
 
 
