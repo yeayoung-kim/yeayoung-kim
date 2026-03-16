@@ -11,7 +11,14 @@
   *바로가기 -> https://yeayoung-korean.vercel.app/* <br>
 
 🍊 오렌지 파크 러닝메이트 7기 <br> 
-   *2026.03 ~ 2026.05* <br> 
+   *2026.03 ~ 2026.05* <br> <br> 
+
+## 🏆 Awards & Achievements <br> 
+
+## 💡 Volunteer work  <br> 
+
+🧸 서구꿈드림 고등학교 졸업시험 검정고시 교육봉사  <br> 
+   *2026.03 ~ ing*
   
 
 
