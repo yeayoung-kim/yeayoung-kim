@@ -37,12 +37,12 @@
 *2026.03 ~ ing* <br> 
 
 ## Tech Stack  <br>
-💻 Language & Framework
+💻 Language & Framework <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-#F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=Black)
 
 
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeayoung.k)](https://solved.ac/yeayoung.k/)
 <!--
 **yeayoung-kim/yeayoung-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
