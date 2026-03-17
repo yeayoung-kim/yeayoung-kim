@@ -59,7 +59,7 @@
 
 ___
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeayoung_kim)](https://solved.ac/yeayoung_kim/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeayoung_kim)](https://solved.ac/yeayoung_kim/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=yeayoung_kim&theme=cold)
 <!--
 **yeayoung-kim/yeayoung-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
