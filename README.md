@@ -38,7 +38,7 @@
 
 ## Tech Stack  <br>
 💻 Language & Framework
-![JavaScript](https://img.shields.io/badge/JavaScript-#F7DF1E.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
+![JavaScript](https://img.shields.io/badge/JavaScript-#F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=Black)
 
 
 
