@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=FFB6C1&text=Kim%20Yea-Young&fontColor=FF69B4&fontSize=42&fontAlignY=45&desc=Backend%20Developer&descAlignY=70&descAlign=50&descSize=20" />
-</p>  
-<p align="center">
-  <img src="https://ghchart.rshah.org/FF8FAB/frombunny" alt="yeayoungkim's Github chart" width="90%"/>
+  <img src="https://ghchart.rshah.org/29C1F3/yeayoung-kim" alt="yeayoungkim's Github chart" width="90%"/>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=29C1F3&text=Kim%20Yea-Young&fontColor=29C1F3&fontSize=42&fontAlignY=45&desc=Frontend%20Developer&descAlignY=70&descAlign=50&descSize=20" />
+</p>  
 
 
 ## Experience 
@@ -46,10 +46,10 @@
 
 ## Tech Stack  <br>
 💻 Language & Framework <br>
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) <br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ___
