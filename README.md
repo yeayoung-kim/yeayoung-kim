@@ -36,6 +36,12 @@
 🇰🇷 Currently building a Korean vocabulary app <br> 
 *2026.03 ~ ing* <br> 
 
+## Tech Stack  <br>
+💻 Language & Framework
+![JavaScript](https://img.shields.io/badge/JavaScript-#F7DF1E.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
+
+
+
 
 <!--
 **yeayoung-kim/yeayoung-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
