@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=FFB6C1&text=Kim%20Yea-Young&fontColor=FF69B4&fontSize=42&fontAlignY=45&desc=Backend%20Developer&descAlignY=70&descAlign=50&descSize=20" />
 </p>  
 <p align="center">
-  <img src="https://ghchart.rshah.org/FF8FAB/frombunny" alt="yeayoung-kim's Github chart" width="90%"/>
+  <img src="https://ghchart.rshah.org/FF8FAB/frombunny" alt="yeayoungkim's Github chart" width="90%"/>
 </p>
 
 
