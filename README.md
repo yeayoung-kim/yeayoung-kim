@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=29C1F3&text=Kim%20Yea-Young&fontColor=29C1F3&fontSize=42&fontAlignY=45&desc=Frontend%20Developer&descAlignY=70&descAlign=50&descSize=20" />
 </p>   
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
