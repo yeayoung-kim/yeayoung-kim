@@ -64,6 +64,8 @@
 ☘️ 청년 일터 디자인랩 - 내일터 프로젝트 <br>
 *2026.03 ~ 2026.11* <br>
 
+🏫 한국어 단어장 제작
+
 ## Current Activities <br> 
 🇰🇷 Currently developing a Korean language textbook <br> 
 *2026.03 ~ ing* <br> 
