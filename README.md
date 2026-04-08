@@ -37,7 +37,7 @@
 - 🏫 한국어 과외 플랫폼
 
 ## Education <br> 
-- 🎓 충남대학교 물리학과 & 컴퓨터공학과  
+- 🎓 충남대학교 물리학과 & 컴퓨터공학과
 
 ## Tech Stack  <br>
 💻 Language & Framework <br> <br>
