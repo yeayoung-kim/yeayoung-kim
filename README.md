@@ -1,5 +1,6 @@
 # Education
 - Chungnam National University
+- Google Cloud Study Jam
 
 # Contact
 - email : yeayoungkim.22@gmail.com <br>
