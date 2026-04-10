@@ -1,51 +1,33 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=29C1F3&text=Kim%20Yea-Young&fontColor=29C1F3&fontSize=42&fontAlignY=45&desc=Frontend%20Developer&descAlignY=70&descAlign=50&descSize=20" />
-</p>   
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://ghchart.rshah.org/29C1F3/yeayoung-kim" alt="yeayoungkim's Github chart" width="90%"/>
-</p>
+# Education
+- Chungnam National University
+- OpenSource Contribution Academy
+
+# Contact
+- email : yeayoungkim.22@gmail.com <br>
+- Instagram : @yeayoung0<br>
+- blog : <br>
+- LinkedIn : <br>
+
+# Experience
+- 2025 **[외국인 대상 한국어 과외 진행](https://yeayoung-korean.vercel.app/)**
+- 2026 **충남대학교 코쿤 창업동아리**
+- 2026 **청년 일터 디자인랩 - 내일터 프로젝트**
+- 2026 **Likelion 14기**
+- 2026 **OrangePark LearningMate 7기**
+- 2026 **OpenSource Contribution Academy - Git활용 및 JavaScript 문서 번역**
+
+# Project
+- 2024 **산타의 편지 <전국단위, 익명편지 주고받기>**
+- 2026 **봄편지 <교내프로젝트, 익명편지>**
+- 2026 **한이음 드림업 - 보험 약관 해석 및 리스크 시뮬레이션 플랫폼**
+- 2026 **한국어 과외 플랫폼 <Korioo>**
+
+# Volunteer
+- 2023 **굿네이버스 어린이 성폭력 예방 인형시연 봉사**
+- 2026 **서구꿈드림 고등학교 졸업시험 사회 검정고시 교육봉사**
 
 
-## Experience <br> 
-- 🏫 **충남대학교 코쿤 창업동아리** | 2026.03 ~ ing <br>
-- 🦁 **멋쟁이 사자처럼 14기** - 프론트엔드 아기사자 | 2026.03 ~ ing <br>
-- 🇰🇷 **개인사이트에서 외국인 대상 한국어 과외 진행** / 누적수강생 약 70명 | 2025.03 ~ ing <br>
-  *바로가기 -> https://yeayoung-korean.vercel.app/*<br>
-- 🍊 **오렌지 파크 러닝메이트 7기** | 2026.03 ~ 2026.05 <br> 
-- ☘️ **청년 일터 디자인랩 - 내일터 프로젝트** | 2026.03 ~ 2026.11 <br>
-- 🔵 **한이음 드림업** - 보험 약관 해석 및 리스크 시뮬레이션 플랫폼 | 2026.03 ~ ing <br>
-- 🌱 **아산 두어스** - 대학생 창업 부트캠프 <br>
-- 🏙️ **오픈소스 컨트리뷰션** 아카데미(멘티) - Git활용 및 JavaScript 문서 번역<br>
-
-## Project  <br>  
-- 🧑‍🎄 사용자 약 400명 / **산타의 편지 <전국단위, 익명편지 주고받기>** | 2024.11 ~ 2025.01 <br> 
-- 💌 사용자 약 80명 / **충남대학교 <교내프로젝트, 너와 나의 연결고리 익명 봄편지>** | 2026.03 ~ 2026.03 <br> 
-- 🔵 **보험 약관 해석 및 리스크 시뮬레이션 플랫폼** <br>
-- 🏙️ **Git활용 및 JavaScript 문서 번역** <br>
-- ☘️ **내일터 프로젝트** | 2026.03 ~ 2026.11 <br>
-- 🏫 **한국어 과외 플랫폼 <Korioo>** | 2026.04 ~ ing <br>
-
-## Volunteer work  <br> 
-- 🧸 **굿네이버스 어린이 성폭력 예방 인형시연 봉사** | 2023.03 ~ 2023.07 <br> 
-- 👩‍🏫 **서구꿈드림 고등학교 졸업시험 사회 검정고시 교육봉사** | 2026.03 ~ ing <br> 
-- 🌍 **상상위더스 카자흐스탄 해외봉사** - 교육봉사  <br> 
-
-## Education <br> 
-- 🎓 충남대학교 물리학과 & 컴퓨터공학과
-
-## Tech Stack  <br>
-💻 Language & Framework <br> <br>
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) <br>
-
+<!-- 이 내용은 주석입니다. 화면에 보이지 않습니다.
 ___
 <p align="center">
   <a href="https://solved.ac/yeayoung_kim/">
@@ -56,6 +38,6 @@ ___
   
 <!--
 **yeayoung-kim/yeayoung-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
 
