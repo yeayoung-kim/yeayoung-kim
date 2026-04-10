@@ -1,6 +1,5 @@
 # Education
 - Chungnam National University
-- OpenSource Contribution Academy
 
 # Contact
 - email : yeayoungkim.22@gmail.com <br>
