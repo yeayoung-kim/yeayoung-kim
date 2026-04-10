@@ -5,7 +5,7 @@
 # Contact
 - email : yeayoungkim.22@gmail.com <br>
 - Instagram : [@yeayoung0](https://www.instagram.com/yeayoung0?igsh=MTgxd2k1ZWJ5b2F3bw%3D%3D&utm_source=qr) <br>
-- blog : https://medium.com/@yeayoungkim.22 <br>
+- blog : https://yeayoung.tistory.com/ <br>
 <!-- - LinkedIn : <br> -->
 
 # Experience
