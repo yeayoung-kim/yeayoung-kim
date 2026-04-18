@@ -1,6 +1,7 @@
 # Education
 - Chungnam National University
 - Google Cloud Study Jam
+- 2026 **OrangePark LearningMate 7기**
 
 # Contact
 - email : yeayoungkim.22@gmail.com <br>
@@ -14,7 +15,6 @@
 - 2026 **봄편지 <교내프로젝트, 익명편지>**
 - 2026 **청년 일터 디자인랩 - 내일터 프로젝트**
 - 2026 **Likelion 14기**
-- 2026 **OrangePark LearningMate 7기**
 - 2026 **OpenSource Contribution Academy - Git활용 및 JavaScript 문서 번역**
 
 # Project
