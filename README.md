@@ -3,7 +3,7 @@
 - Google Cloud Study Jam
 - 2026 **OrangePark LearningMate 7기**
 - 2026 **CNU Pre- 모두의 창업 Idea Camp**
-- 2026 **Global Startup School**
+- 2026 **Global Startup School Bootcamp**
 
 # Contact
 - email : yeayoungkim.22@gmail.com <br>
