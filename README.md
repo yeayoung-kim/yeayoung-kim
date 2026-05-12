@@ -19,6 +19,10 @@
 - 2026 **Likelion 14기**
 - 2026 **OpenSource Contribution Academy - Git활용 및 JavaScript 문서 번역**
 
+# Award & Certificate
+- 2025 학업 최우등상 
+- 2026 Google Analytics Certification
+
 # Project
 - 2024 **산타의 편지 <전국단위, 익명편지 주고받기>**
 - 2026 **보험 약관 해석 및 리스크 시뮬레이션 플랫폼 <한이음 드림업>**
