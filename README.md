@@ -4,6 +4,7 @@
 - 2026 **OrangePark LearningMate 7기**
 - 2026 **CNU Pre- 모두의 창업 Idea Camp**
 - 2026 **Global Startup School Bootcamp**
+- 2026 **아산두어스 2026 배치**
 
 # Contact
 - email : yeayoungkim.22@gmail.com <br>
@@ -20,8 +21,8 @@
 - 2026 **OpenSource Contribution Academy - Git활용 및 JavaScript 문서 번역**
 
 # Award & Certificate
-- 2025 학업 최우등상 
-- 2026 Google Analytics Certification
+- 2025 **학업 최우등상**
+- 2026 **Google Analytics Certification**
 
 # Project
 - 2024 **산타의 편지 <전국단위, 익명편지 주고받기>**
