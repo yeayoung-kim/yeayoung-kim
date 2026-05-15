@@ -4,7 +4,6 @@
 - 2026 **OrangePark LearningMate 7기**
 - 2026 **CNU Pre- 모두의 창업 Idea Camp**
 - 2026 **Global Startup School Bootcamp**
-- 2026 **아산두어스 2026 배치**
 
 # Contact
 - email : yeayoungkim.22@gmail.com <br>
@@ -13,10 +12,10 @@
 # Experience
 - 2026 **충남대학교 코쿤 창업동아리**
 - 2026 **봄편지 <교내프로젝트, 익명편지>**
-- 2026 **청년 일터 디자인랩 - 내일터 프로젝트**
 - 2026 **Likelion 14기**
 - 2026 **OpenSource Contribution Academy - Git활용 및 JavaScript 문서 번역**
 - 2025 **[외국인 대상 한국어 과외 진행](https://yeayoung-korean.vercel.app/)**
+- 2026 **아산두어스 2026 배치**
 
 # Award & Certificate
 - 2026 **Google Analytics Certification**
