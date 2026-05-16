@@ -4,6 +4,7 @@
 - 2026 **OrangePark LearningMate 7기**
 - 2026 **CNU Pre- 모두의 창업 Idea Camp**
 - 2026 **Global Startup School Bootcamp**
+- 2026 **한이음 드림업 AWS Cloud Camp**
 
 # Contact
 - email : yeayoungkim.22@gmail.com <br>
