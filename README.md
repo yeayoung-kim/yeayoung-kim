@@ -7,7 +7,7 @@
 - 2026 **한이음 드림업 AWS Cloud Camp**
 
 # Contact
-- email : yeayoungkim.22@gmail.com <br>
+- Email : yeayoungkim.22@gmail.com <br>
 <!-- - LinkedIn : <br> -->
 
 # Experience
