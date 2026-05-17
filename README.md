@@ -14,7 +14,6 @@
 - 2026 **충남대학교 코쿤 창업동아리**
 - 2026 **봄편지 <교내프로젝트, 익명편지>**
 - 2026 **Likelion 14기**
-- 2026 **OpenSource Contribution Academy - Git활용 및 JavaScript 문서 번역**
 - 2025 **[외국인 대상 한국어 과외 진행](https://yeayoung-korean.vercel.app/)**
 - 2026 **아산두어스 2026 배치**
 
